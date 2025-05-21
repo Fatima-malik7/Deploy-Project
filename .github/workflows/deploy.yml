@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: 40819/my-react-app:latest
+          tags: 40089/web-app:latest
